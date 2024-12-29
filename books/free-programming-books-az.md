@@ -12,16 +12,6 @@
 * [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
 
 
-### HTML and CSS
-
-* [CSS](http://ilkaddimlar.com/ders/css)
-* [HTML](http://ilkaddimlar.com/ders/html)
-
-
-### JavaScript
-
-* [JavaScript](http://ilkaddimlar.com/ders/javascript)
-
 
 ### Linux
 
